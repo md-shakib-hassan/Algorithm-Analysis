@@ -20,7 +20,7 @@ int main(){
             scanf("%d %d",&a,&b);
 
             mat[a][b]=1;
-            mat[b][a]=1;
+            
         }
 
     }
