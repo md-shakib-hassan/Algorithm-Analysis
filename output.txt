@@ -1,5 +1,78 @@
-0 1 0 1 0 
-0 0 1 1 0 
-0 0 0 1 0 
-0 0 0 0 0 
-0 0 0 0 0 
+Enter number of booths: Enter number of customers (minimum 20): 
+ Customer iNput 
+
+Customer C1
+Arrival Time : Service Time : 
+Customer C2
+Arrival Time : Service Time : 
+Customer C3
+Arrival Time : Service Time : 
+Customer C4
+Arrival Time : Service Time : 
+Customer C5
+Arrival Time : Service Time : 
+Customer C6
+Arrival Time : Service Time : 
+Customer C7
+Arrival Time : Service Time : 
+Customer C8
+Arrival Time : Service Time : 
+Customer C9
+Arrival Time : Service Time : 
+Customer C10
+Arrival Time : Service Time : 
+Customer C11
+Arrival Time : Service Time : 
+Customer C12
+Arrival Time : Service Time : 
+Customer C13
+Arrival Time : Service Time : 
+Customer C14
+Arrival Time : Service Time : 
+Customer C15
+Arrival Time : Service Time : 
+Customer C16
+Arrival Time : Service Time : 
+Customer C17
+Arrival Time : Service Time : 
+Customer C18
+Arrival Time : Service Time : 
+Customer C19
+Arrival Time : Service Time : 
+Customer C20
+Arrival Time : Service Time : 
+
+| Customer | Arrival | Service | Booth | Start | Finish | Waiting |
++----------+---------+---------+-------+-------+--------+---------+
+| C1       | 1       | 3       | B1    | 1     | 4      | 0       |
+| C2       | 2       | 3       | B2    | 2     | 5      | 0       |
+| C3       | 3       | 4       | B3    | 3     | 7      | 0       |
+| C4       | 4       | 6       | B1    | 4     | 10     | 0       |
+| C5       | 1       | 3       | B2    | 5     | 8      | 4       |
+| C6       | 2       | 3       | B3    | 7     | 10     | 5       |
+| C7       | 3       | 4       | B2    | 8     | 12     | 5       |
+| C8       | 4       | 6       | B1    | 10    | 16     | 6       |
+| C9       | 1       | 3       | B3    | 10    | 13     | 9       |
+| C10      | 2       | 3       | B2    | 12    | 15     | 10      |
+| C11      | 3       | 4       | B3    | 13    | 17     | 10      |
+| C12      | 4       | 6       | B2    | 15    | 21     | 11      |
+| C13      | 1       | 3       | B1    | 16    | 19     | 15      |
+| C14      | 2       | 3       | B3    | 17    | 20     | 15      |
+| C15      | 3       | 4       | B1    | 19    | 23     | 16      |
+| C16      | 4       | 6       | B3    | 20    | 26     | 16      |
+| C17      | 1       | 3       | B2    | 21    | 24     | 20      |
+| C18      | 2       | 3       | B1    | 23    | 26     | 21      |
+| C19      | 3       | 4       | B2    | 24    | 28     | 21      |
+| C20      | 4       | 6       | B1    | 26    | 32     | 22      |
+
+
+ BOOTH STATISTICS
+| Booth   | Total Service Time| Idle Time  |
+| Booth 1 | 31                | 1          |
+| Booth 2 | 26                | 2          |
+| Booth 3 | 23                | 3          |
+
+
+
+ OVERALL STATISTICS
+Average Waiting Time : 10.30
